@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rizal Khairul Hashfi and I'm an Engineer Physics at Telkom University.</p>
+<p align="left">My name is Rizal Khairul Hashfi and I'm an Engineering Physics at Telkom University.</p>
 
 ###
 

@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I just became a newbie here.</h1>
+<h1 align="left">Hey 👋 I'm Rizal Khairul Hashfi.</h1>
 
 ###
 
-<p align="left">My name is Rizal Khairul Hashfi and I'm an Engineering Physics at Telkom University.</p>
+<p align="left">My name is Rizal Khairul Hashfi and I'm an Engineering Physics student at Telkom University.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Interested in AI & IOT Innovation<br>📚 I'm currently learning to become a full stack developer.<br>🎯 Goals: Become an AI & IOT developer as well as a software developer</p>
+<p align="left">✨ Interested in AI & IoT Innovation<br>📚 I'm currently learning to become a full stack developer.<br>🎯 Goals: Become an AI & IoT developer as well as a software developer.</p>
 
 ###
 
@@ -22,6 +22,16 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
